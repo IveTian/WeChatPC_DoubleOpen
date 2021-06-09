@@ -1,0 +1,20 @@
+﻿<metro:MetroWindow x:Class="WeChat_DoubleOpen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:WeChat_DoubleOpen"
+        mc:Ignorable="d"
+        Title="微信多开工具" Height="319" Width="261" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ScrollViewer.VerticalScrollBarVisibility="Auto" WindowStyle="SingleBorderWindow" Visibility="Visible">
+    <Grid Margin="0,0,0,-15">
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+        <Button Content="打开两个微信" HorizontalAlignment="Center" Margin="0,157,0,0" VerticalAlignment="Top" Height="43" Width="130" FontSize="15" Click="Button_Click"/>
+        <Label Content="微信PC多开工具" HorizontalAlignment="Center" Height="51" Margin="0,59,0,0" VerticalAlignment="Top" Width="229" FontSize="30"/>
+        <Label Content="V0.1.0" HorizontalAlignment="Center" Height="23" Margin="0,104,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="仅供个人用于学习、研究，不得用于商业用途" HorizontalAlignment="Center" Margin="0,216,0,0" VerticalAlignment="Top" FontSize="8"/>
+        <Label Content="©木辛恒同学" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</metro:MetroWindow>
