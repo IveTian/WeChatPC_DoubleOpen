@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXe+hzRmFn4m7veK3pgHwlc7qX4Y8Fz1Z1eQUb0rEIXxa/kJBII7nnWy4jDpHDtKWw+IgLpQ0zCSKq9eOrM3vA==",
+  "dgSpecHash": "6YZN+VnEt9SO0XLJzWDIjrAr1jHxDBUOb8ME3h6aCMrf93qOCEVH/RLHxh5rd+ueBZXJvCB47lNJbPKQBAtQSA==",
   "success": true,
-  "projectFilePath": "F:\\自制程序\\WeChatDoubleOpen\\WeChat_DoubleOpen\\WeChat_DoubleOpen.csproj",
+  "projectFilePath": "F:\\自制程序\\WeChatDoubleOpen\\WeChatPC_DoubleOpen\\WeChat_DoubleOpen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\t1037\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
     "C:\\Users\\t1037\\.nuget\\packages\\mahapps.metro\\2.4.5\\mahapps.metro.2.4.5.nupkg.sha512",

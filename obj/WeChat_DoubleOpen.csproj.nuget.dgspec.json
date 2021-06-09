@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\自制程序\\WeChatDoubleOpen\\WeChat_DoubleOpen\\WeChat_DoubleOpen.csproj": {}
+    "F:\\自制程序\\WeChatDoubleOpen\\WeChatPC_DoubleOpen\\WeChat_DoubleOpen.csproj": {}
   },
   "projects": {
-    "F:\\自制程序\\WeChatDoubleOpen\\WeChat_DoubleOpen\\WeChat_DoubleOpen.csproj": {
+    "F:\\自制程序\\WeChatDoubleOpen\\WeChatPC_DoubleOpen\\WeChat_DoubleOpen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\自制程序\\WeChatDoubleOpen\\WeChat_DoubleOpen\\WeChat_DoubleOpen.csproj",
+        "projectUniqueName": "F:\\自制程序\\WeChatDoubleOpen\\WeChatPC_DoubleOpen\\WeChat_DoubleOpen.csproj",
         "projectName": "WeChat_DoubleOpen",
-        "projectPath": "F:\\自制程序\\WeChatDoubleOpen\\WeChat_DoubleOpen\\WeChat_DoubleOpen.csproj",
+        "projectPath": "F:\\自制程序\\WeChatDoubleOpen\\WeChatPC_DoubleOpen\\WeChat_DoubleOpen.csproj",
         "packagesPath": "C:\\Users\\t1037\\.nuget\\packages\\",
-        "outputPath": "F:\\自制程序\\WeChatDoubleOpen\\WeChat_DoubleOpen\\obj\\",
+        "outputPath": "F:\\自制程序\\WeChatDoubleOpen\\WeChatPC_DoubleOpen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
