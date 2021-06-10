@@ -28,8 +28,8 @@ namespace WeChat_DoubleOpen
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start(@"D:\应用程序\WeChat\WeChat.exe");
-            System.Diagnostics.Process.Start(@"D:\应用程序\WeChat\WeChat.exe");
+            System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Tencent\WeChat\WeChat.exe");
+            System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Tencent\WeChat\WeChat.exe");
         }
     }
 }
